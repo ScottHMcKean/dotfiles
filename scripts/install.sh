@@ -23,6 +23,8 @@ install libusb-1.0-0-dev
 install make
 install curl
 install gcc
+install r-base
+install gdebi-core
 
 # snap installs
 sudo snap install --classic code #vscode
